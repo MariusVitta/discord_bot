@@ -13,6 +13,14 @@ Ce bot discord a été réalisé avec Python et est utilisé comme bot pour joue
 - une version de jellyfish 0.8.9 ou ultérieure
 - une version de Pillow 8.4.0 ou ultérieure
 
+## Configuration
+Fichier .env
+- DISCORD_TOKEN=TOKEN_VOTRE_BOT
+- DISCORD_GUILD="Nom du serveur discord"
+- IDCHANNEL=ID_CHANNEL_JEU
+- IDTEAM1=ID_ROLE1
+- IDTEAM2=ID_ROLE2
+
 
 ## Installation
 #### Discord.py 2.0
