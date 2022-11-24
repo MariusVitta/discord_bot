@@ -1,0 +1,60 @@
+1:Lors du chapitre 1, Shanks avait déjà 3 cicatrices à l'oeil gauche ?;Vrai/Faux;2;Vrai;cicatrices.png
+2:Au début de One Piece, Higuma montre son affiche Wanted à Shanks, quelle était sa prime ?;8 000 000/8000000/8.000.000/8millions/8 millions;1;None;Higuma.png
+3:Lors du chapitre 1, de quelle manière Shanks remarque que Luffy a mangé le Gomu Gomu No Mi ?;Il le retient par le bras/Il le voit manger le fruit/Il le soulève par les jambes/Il retrouve le coffre vide;2;Il le retient par le bras;gomuluffy.png
+4:Lors du chapitre 1, quel pirate de l'équipage de Shanks s'est occupé des brigands à lui tout seul ?;Ben Beckman/Ben Beckmann;1;None;benbrigand.png
+5:À quelle étage d'Impeldown se trouve la planque secrète de Ivankov ?;5 5/5.5/cinq cinq;1;None;ivankovetage.png
+6:En échange de sauver Luffy du poison de Magellan, combien d'années de vie devait sacrifier Luffy ?;10 ans/10/10 années/dix ans/dix/dix années;1;None;luffypoison.png
+7:Combien de temps s'était écoulé à la fin du traitement de Ivankov sur Luffy à Impeldown ?;Moins de 24h/1 jour/1 semaine/3 jours;2;Moins de 24h;luffytraitement.png
+8:Selon le narrateur, environ combien d'hommes de la marine attendaient que la bataille de Marineford commence ?;10 000/50 000/150 000/5 000;2;10 000;hommemarine.png
+9:Pendant combien de jours a duré le combat entre Jinbe et Ace ?;5 jours/5/5 jour/cinq/cinq jours/cinq jour;1;None;jinbeace.png
+10:Comment les souvenirs de Sabo sont revenus à lui ?;Il a découvert la mort de Ace dans un journal/Dragon lui a raconté son passé/Après avoir rencontré Luffy à Dressrosa/Grâce à des médicaments;2;Il a découvert la mort de Ace dans un journal;saboace.png
+11:Combien de rois se sont réunis autour de la table ronde à l'arc Reverie ?;49/quarante-neuf;1;None;reverie.png
+12:Comment avance le tapis roulant de Marie Joie ?;Des prisonniers au sous-sol le font avancer/À l'aide d'un fruit du démon/Grâce à un mécanisme automatique de Vegapunk/C'est un phénomène naturel;2;Des prisonniers au sous-sol le font avancer;mariejoie.png
+13:Combien d'affiche Wanted tenait Im au sous-sol de Marie Joie;2/deux;1;None;imsama.png
+14:Comment se nomme le trône à Marie Joie ?;Le trône vide/Le trône vacant/Empty Throne;1;None;tronevide.png
+15:Combien de rois ont prêté serment il y'a 800 ans pour que personne puisse s'asseoir sur le trône vide ?;20/vingt;1;None;serment.png
+16:Combien sont-ils au Conseil des Doyens ?;5/cinq;1;None;five.png
+17:Quelle famille des 20 membres fondateurs a décidé de rester à la surface il y'a 800 ans ?;Nefertari;1;None;reverie.png
+18:Par le passé Vegapunk, Judge et Queen ont fait parti d'une équipe de scientifique, quel était le nom de cet équipe ?;MADS/M A D S/M.A.D.S;1;None;mads.png
+19:Pour quelle raison l'île Punk Hazard a été interdite d'accès ?;Une arme chimique a explosé sur l'île/À cause du combat de Akainu et Aokiji/À cause du fruit artificiel de Vegapunk/À cause des Yéti Cool Brothers;2;Une arme chimique a explosé sur l'île;punkhazard.png
+20:Combien de personnalités différentes de Franky ont été vu dans le manga sans compter celui de base ?;3/trois;1;None;frankytea.png
+21:Quel âge a Sugar ?;22 ans/33 ans/10 ans/16 ans;2;22 ans;Sugar.png
+22:Pendant combien de mois Portgas D. Rouge a porté Ace dans son ventre ?;20 mois/9 mois/24 mois/18 mois;2;20 mois;rouge.png
+23:Combien de Berrys Usopp se fait dérober par Franky à Water Seven ?;200 000 000 Berrys/50 000 000 Berrys/10 000 000 Berrys/100 000 000 Berrys;2;200 000 000 Berrys;waterseven.png
+24:Combien de temps doit mettre le Log Pose de Nami à se charger sur Little Garden ?;1 an/1 semaine/1 mois/3 ans;2;1 an;logpose.png
+25:Comment l'équipage de Mugiwara obtiennent le Eternal Pose de Alabasta ?;Grâce aux Unluckies/Vivi en avait un sur elle/Il le vole à Mr.5/Brogy le géant d'Elbaf leur donne;2;Grâce aux Unluckies;alabasta.png
+26:Quel est l'ordre donné à Nico par Crocodile après l'appel avec Sanji ?;Eliminer Mr.3/S'infiltrer sur le bateau des Mugiwara/Tuer Igaram/Traduire un ponéglyphe;2;Eliminer Mr.3;nicorobin.png
+27:Par qui est mentionné Ryokugyo pour la toute première fois ?;Fujitora;1;None;Ryo.png
+28:Quel était le nombre d'inscription de Luffy pour le tournoi du Colisée ?;0556/0337/0212/0773;2;0556;luffycolisium.png
+29:Quelle était la prime de Nico Robin à l'age de 8 ans ?;79 000 000 Berrys/70 000 000 Berrys/80 000 000 Berrys/67 000 000 Berrys;2;79 000 000 Berrys;nicokid.png
+30:Parmi l'équipage de Kaido, comment s'appelle la section qui ont mangé un smile défectueux ?;Pleasures/Waiters/Gifters/Laughters;2;Pleasures;pleasures.png
+31:Qui se fait éjecter en deuxième par Kuma à Sabaody ?;Brook/Soolking;1;None;kuma.png
+32:En quel animal se transforme Dalton grâce à son zoan ?;Bison;1;None;dalton.png
+33:Quel sécret comptait dévoiler Clover avant d'être abattu par le CP9 ?;Le nom d'un ancien royaume/La Localisation de Laugh Tale/L'origine des Dragons Célestes/La raison pour laquelle les ponéglyphes ont été écrits;2;Le nom d'un ancien royaume;clover.png
+34:À quelle flotte de Barbe Blanche appartenait Teach ?;2ème flotte/deuxième flotte/flotte de Ace;1;None;flotte.png
+35:De quelle denrée alimentaire Charlotte Katakuri est-il le ministre ?;Ministre de la farine/Ministre du moshi/Ministre du sucre/Ministre du chocolat;2;Ministre de la farine;katakuri.png
+36:Qui est le seul pirate connu qui a été relâché d'Impeldown ?;Arlong;1;None;Impeldown.png
+37:Depuis combien d'années Laboon attend le retour de l'équipage de Rumbar ?;52 ans/52/cinquante-deux;1;None;laboon.png
+38:Quel membre du Baroque Works ne combat pas avec une partenaire ?;Bonclay/Bon Clay/Bentham/Mr.2/Mister 2/Mr 2;1;None;barok.png
+39:Parmi les Grand Corsaire, lequel ne se joint pas à la Marine pour la Bataille de Marineford ?;Marshall D. Teach/Marshall D Teach/Teach/Barbe Noire/Barbe Noir;1;None;marineford.png
+40:Que contient le deuxième compartiment du système Dock Soldier de Thousand Sunny ?;Mini Merry;1;None;compartiment.png
+41:Comment la marine font pour pouvoir naviguer sur Calm Belt ?;Grâce au Granit Marin/À l'aide d'un fruit du démon artificiel/Un monstre marin tire le bateau/Grâce au bois d'Adam;2;Grâce au Granit Marin;calmbelt.png
+42:Quel âge a Kureha ?;141 ans/95 ans/100 ans/156 ans;2;141 ans;kureha.png
+43:Combien de tentatives d'assassinat a tenté Ace sur Barbe Blanche selon le narrateur ?;50/12/5/24;2;50;ace.png
+44:Combien de type d'escargophone existent-ils dans One Piece ?;14/5/20/8;2;14;escargophone.png
+45:Quel type de catégorie de grand sabre n'existe pas ?;Seio Wazamono/Ryo Wazamono/Saijo O Wazamono/O Wazamono;2;Seio Wazamono;sabre.png
+46:Combien de transformations comptabilise au total Chopper depuis sa première apparition ?;9/5/11/7;2;9;chopper.png
+47:Est-ce que ce drapeau ASL existe ?;Vrai/Faux;2;Faux;ASL.png
+48:Comment se nomme les ascenseurs à bulle menant à la Terre Sainte de Marie Joie ?;Bondoles/Rifuto/Groves/Ballons;2;Bondoles;bondoles.png
+49:Par le passé, quel océan avait conquis le Germa 66 ?;North Blue;1;None;germa.png
+50:Contre quel adversaire Luffy a utilisé le Gear Third pour la toute première fois ?;Rob Lucci;1;none;luffygear.png
+51:Kyros est resté invaincu sur 3000 combats ?;Vrai/Faux;2;Vrai;kyros.png
+52:Dans quel arc on fait mention du Haki des Rois pour la toute première fois ?;Water Seven/Marineford/Sabaody/Amazon Lily;2;Water Seven;haki.png
+53:Ce t-shirt de Luffy avec l'inscription « Mont Corvo » a existé ?;Vrai/Faux;2;Faux;shirt.png
+54:Quand Nico Robin était affiliée à Crocodile, quel était son nom de code ?;Miss All Sunday/Miss Allsunday;1;none;nicoalabasta.png
+55:Quel élément trahit Bonclay lorsqu'il se transforme en Usopp pour tromper Vivi ?;Il a seulement montré le bandage à son bras/Il ne portrait pas de bandage au bras/Il n'avait aucune blessure/Il portait des vêtements différents;2;Il a seulement montré le bandage au bras;bonclay.png
+56:Usopp pour tromper ses ennemis à Alabasta, il dit que son marteau fait quel poids ?;5 Tonne/1 Tonne/10 Tonne/800 kg;2;5 Tonne;usopp.png
+57:Combien de défaites a subi Smoker depuis l'éllipse ?;4/quatre/quatres;1;none;smoker.png
+58:Kid est le seul supernovae qui a affronté l'équipage de Shanks, Kaido et Big Mom ?;Vrai/Faux;2;Faux;kid.png
+59:Qui est l'être humanoïde le plus grand de One Piece ?;Sanjuan Wolf;1;none;grand.png
+60:Qui est le premier prisonnier a être sorti de sa cellule à l'aide de Luffy à Impeldown ?;Galdino/Mr.3/Mr 3/Mister 3;1;none;prison.png

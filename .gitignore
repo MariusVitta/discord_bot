@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+token_2.py
+pourMoi.py
+.env
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/shandoraBot.iml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/affichage.cpython-38.pyc
+__pycache__/boutons.cpython-38.pyc
+__pycache__/config.cpython-38.pyc
+__pycache__/games.cpython-38.pyc
+__pycache__/imports.cpython-38.pyc
+__pycache__/logs.cpython-38.pyc
+__pycache__/main.cpython-38.pyc
+__pycache__/traces.cpython-38.pyc
