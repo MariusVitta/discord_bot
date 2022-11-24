@@ -1,0 +1,6 @@
+# --- Jeu PVP ---#
+Session lancée par: un_ancian
+
+# --- JOUEURS ---#
+couleur:bleu joueur:un_ancian#8649 initiative: 91
+couleur:rouge joueur:xRock#9091 initiative: 54

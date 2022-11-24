@@ -1,0 +1,6 @@
+# --- Jeu PVP ---#
+Session lancée par: un_ancian
+
+# --- JOUEURS ---#
+couleur:rose joueur:Saïd 2.0#6096 initiative: 443
+couleur:jaune joueur:un_ancian#8649 initiative: 614
